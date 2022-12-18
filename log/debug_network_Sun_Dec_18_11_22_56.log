@@ -1,0 +1,44 @@
+[2022-12-18 11:22:56.170295 +01:00] [I] [T 569719]: init log
+[2022-12-18 11:22:56.170346 +01:00] [I] [T 569719]: init_log
+[2022-12-18 11:22:56.170754 +01:00] [I] [T 569719]: set_on_user_login_fn
+[2022-12-18 11:22:56.170757 +01:00] [I] [T 569719]: set_on_server_connected_fn
+[2022-12-18 11:22:56.170764 +01:00] [I] [T 569719]: set_on_printer_connected_fn
+[2022-12-18 11:22:56.170766 +01:00] [I] [T 569719]: set_get_country_code_fn
+[2022-12-18 11:22:56.170767 +01:00] [I] [T 569719]: set_on_local_connect_fn
+[2022-12-18 11:22:56.170769 +01:00] [I] [T 569719]: set_on_message_fn
+[2022-12-18 11:22:56.170770 +01:00] [I] [T 569719]: set_on_local_message_fn
+[2022-12-18 11:22:56.170805 +01:00] [I] [T 569719]: set host to https://api.bambulab.com/v1
+[2022-12-18 11:22:56.170806 +01:00] [I] [T 569719]: region update iot = https://api.bambulab.com/v1
+[2022-12-18 11:22:56.170807 +01:00] [I] [T 569719]: region update api = https://api.bambulab.com/
+[2022-12-18 11:22:56.170807 +01:00] [I] [T 569719]: region update mqtt = ssl://us.mqtt.bambulab.com:8883
+[2022-12-18 11:22:56.170808 +01:00] [I] [T 569719]: region update tutk = US
+[2022-12-18 11:22:56.170809 +01:00] [I] [T 569719]: region update base domain = bambulab.com
+[2022-12-18 11:22:56.170809 +01:00] [I] [T 569719]: region update environment = 
+[2022-12-18 11:22:56.170810 +01:00] [I] [T 569719]: region update wifi_code = US
+[2022-12-18 11:22:56.170810 +01:00] [I] [T 569719]: region update design = https://bambulab.com
+[2022-12-18 11:22:56.170811 +01:00] [I] [T 569719]: Agent: load_config
+[2022-12-18 11:22:56.170854 +01:00] [I] [T 569719]: load_user_info
+[2022-12-18 11:22:56.170891 +01:00] [I] [T 569719]: set_on_user_login_fn
+[2022-12-18 11:22:56.170896 +01:00] [I] [T 569719]: set_on_server_connected_fn
+[2022-12-18 11:22:56.170897 +01:00] [I] [T 569719]: set_on_printer_connected_fn
+[2022-12-18 11:22:56.170898 +01:00] [I] [T 569719]: set_get_country_code_fn
+[2022-12-18 11:22:56.170899 +01:00] [I] [T 569719]: set_on_local_connect_fn
+[2022-12-18 11:22:56.170900 +01:00] [I] [T 569719]: set_on_message_fn
+[2022-12-18 11:22:56.170901 +01:00] [I] [T 569719]: set_on_local_message_fn
+[2022-12-18 11:22:56.170926 +01:00] [I] [T 569719]: set_on_http_error_fn
+[2022-12-18 11:22:56.170927 +01:00] [I] [T 569719]: ssdp: stop()
+[2022-12-18 11:22:56.170994 +01:00] [I] [T 569719]: Network Interface List: 2
+[2022-12-18 11:23:10.861658 +01:00] [I] [T 569719]: bambu_network_get_version, version: 01.03.01.02
+[2022-12-18 11:34:14.193830 +01:00] [I] [T 569719]: set monitor machine = 
+[2022-12-18 11:34:14.193872 +01:00] [I] [T 569719]: Agent: save_config
+[2022-12-18 11:34:14.195349 +01:00] [I] [T 569719]: save_user_info
+[2022-12-18 11:34:14.195371 +01:00] [I] [T 569719]: Agent: save_config
+[2022-12-18 11:34:14.209504 +01:00] [I] [T 569719]: connect_cloud_mqtt
+[2022-12-18 11:34:15.408206 +01:00] [I] [T 578194]: cloud_conn_callback::on_success, Connection(mqtt) OK! cli id= slicer:3495208485:c6ba
+[2022-12-18 11:34:15.408262 +01:00] [I] [T 578194]: cloud_conn_callback::on_success, Connection(mqtt) OK! cli id= slicer:3495208485:c6ba
+[2022-12-18 11:34:15.408267 +01:00] [I] [T 578194]: cloud_conn_callback::connected!
+[2022-12-18 11:34:15.409936 +01:00] [I] [T 569719]: set monitor machine = 
+[2022-12-18 11:34:15.409951 +01:00] [I] [T 569719]: Agent: save_config
+[2022-12-18 11:37:22.878474 +01:00] [I] [T 569719]: stop_subscribe, machine = , module = app
+[2022-12-18 11:42:12.025809 +01:00] [I] [T 578240]: request setting id, body={"message":"success","code":null,"error":null,"setting_id":"PM35465864346134586"}
+[2022-12-18 11:47:51.405797 +01:00] [I] [T 569719]: Agent: save_config
