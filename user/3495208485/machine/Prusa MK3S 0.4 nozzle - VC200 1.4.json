@@ -1,0 +1,15 @@
+{
+    "from": "User",
+    "gcode_flavor": "reprapfirmware",
+    "inherits": "Prusa MK3S 0.4 nozzle",
+    "name": "Prusa MK3S 0.4 nozzle - VC200 1.4",
+    "printable_area": [
+        "0x0",
+        "210x0",
+        "210x200",
+        "0x200"
+    ],
+    "printable_height": "200",
+    "printer_settings_id": "Prusa MK3S 0.4 nozzle - VC200 1.4",
+    "version": "1.2.0.3"
+}

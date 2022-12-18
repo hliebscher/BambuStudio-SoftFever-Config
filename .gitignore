@@ -9,6 +9,7 @@ blib
 xs/buildtmp
 *.o
 *.log
+*.log.*
 MANIFEST.bak
 xs/MANIFEST.bak
 xs/assertlib*
